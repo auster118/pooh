@@ -34,7 +34,7 @@ header nav .nav--list .nav--item.active button{font-size: 18px;}
 }
 
 .content .content--section{min-height: 100vh; padding: 80px 80px 120px;}
-.content .content--section.main--visual{background-image: url('/asset/images/mainvisual01.jpg'); background-position: center; background-repeat: no-repeat; background-size: cover; padding-bottom: 0; display: flex; align-items: flex-end;}
+.content .content--section.main--visual{background-image: url('../images/mainvisual01.jpg'); background-position: center; background-repeat: no-repeat; background-size: cover; padding-bottom: 0; display: flex; align-items: flex-end;}
 .content .content--section:nth-child(2n){background-color:#181818;}
 .content .content--section.contact--info{min-height: 0;}
 .content .content--section.main--visual .main--info{padding: 30px; font-family: 'Paperlogy'; line-height: 1.4;}
